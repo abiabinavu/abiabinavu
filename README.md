@@ -1,36 +1,41 @@
 # Hi there 👋, I'm Abinavu
 
-## About Me
-
 🎓 Electronics and Communication Engineering Graduate
 
-💻 Interested in:
-- Embedded Systems
-- Internet of Things (IoT)
-- ESP32 & Arduino
-- C Programming
-- Python
+💻 Passionate about Embedded Systems, IoT, ESP32, and Software Development.
 
-🚀 Currently Learning
-- Embedded C
-- ESP32 Development
-- Git & GitHub
+---
 
-## Technical Skills
+## 🚀 About Me
 
-- C
-- Python
-- Arduino
-- ESP32
-- Git
-- GitHub
+- 🌱 Currently learning Embedded C, ESP32, Git & GitHub
+- 🔭 Working on IoT and Embedded Systems Projects
+- 💼 Open to Internship & Full-Time Opportunities
+- 📍 Tamil Nadu, India
 
-## Projects
+---
 
-- Smart Helmet Accident Detection System
-- IoT-Based Embedded Projects
+## 🛠️ Tech Stack
 
-## Contact
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- LinkedIn: (https://www.linkedin.com/in/abi-abinavu-894589358)
-- Email: (abinavuabinavu@gmail.com)
+---
+
+## 📂 Featured Projects
+
+- 🚑 Smart Helmet Accident Detection System
+- 📡 IoT-Based Embedded Projects
+- 🤖 ESP32 Projects
+- 💻 Arduino Projects
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *(https://www.linkedin.com/in/abi-abinavu-894589358)*
+- Email: *(abinavuabinavu@gmail.com)*
