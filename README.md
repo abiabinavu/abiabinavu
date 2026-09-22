@@ -1,50 +1,39 @@
-# Hi there 👋, I'm Abinavu
+# Abinavu M
 
-🎓 Electronics and Communication Engineering Graduate
+**Electronics and Communication Engineering student focused on embedded systems and the Internet of Things.**
 
-💻 Passionate about Embedded Systems, IoT, ESP32, and Software Development.
+I build sensor-driven systems that connect reliable hardware, firmware, and real-time data for safety and monitoring applications.
 
----
+## Focus areas
 
-## 🚀 About Me
+- Embedded systems and hardware–firmware integration
+- Internet of Things, sensor interfacing, and connected devices
+- Real-time safety and monitoring systems
+- ESP32, Arduino, STM32, Raspberry Pi, GPS, GSM, and cloud-connected IoT
 
-- 🌱 Currently learning Embedded C, ESP32, Git & GitHub
-- 🔭 Working on IoT and Embedded Systems Projects
-- 💼 Open to Internship & Full-Time Opportunities
-- 📍 Tamil Nadu, India
+## Featured work
 
----
+- [ESP32 Multilevel Confirmation Accident Detection System](https://github.com/abiabinavu/esp32-multilevel-accident-detection) — A paired bike and helmet ESP32 system that validates impact, helmet, pulse, and GPS signals before sending a GSM emergency alert.
+- [Portfolio](https://abiabinavu.github.io/abinavu-portfolio/) — Projects, skills, certifications, and ways to connect.
 
-## 🛠️ Tech Stack
+## Technical toolkit
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-## 📊 GitHub Stats
+**Programming:** C, Embedded C, Python  
+**Embedded & IoT:** Arduino, ESP32, STM32, Raspberry Pi, sensor interfacing, GSM, GPS  
+**Tools:** Tinkercad, Google Workspace, Microsoft Office, Canva
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abiabinavu&show_icons=true&theme=tokyonight)
+## Education and experience
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abiabinavu&layout=compact&theme=tokyonight)
+- B.E. Electronics and Communication Engineering, Dhanalakshmi Srinivasan College of Engineering (2023–2027)
+- Embedded Systems Intern, Keltron
+- Embedded Systems Intern, Saron Innovature Labs LLP
 
-## 🔥 GitHub Streak
+## Certifications
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abiabinavu&theme=tokyonight)](https://git.io/streak-stats)
+- NPTEL — Introduction to Semiconductor Device, Elite Certification (67%)
+- NPTEL — Introduction to Embedded Systems (62%)
+- Scouts & Guides — Scout Certificate
 
----
+## Connect
 
-## 📂 Featured Projects
-
-- 🚑 Smart Helmet Accident Detection System
-- 📡 IoT-Based Embedded Projects
-- 🤖 ESP32 Projects
-- 💻 Arduino Projects
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: *(https://www.linkedin.com/in/abi-abinavu-894589358)*
-- Email: *(abinavuabinavu@gmail.com)*
+[Portfolio](https://abiabinavu.github.io/abinavu-portfolio/) · [LinkedIn](https://www.linkedin.com/in/abi-abinavu-894589358) · [Instagram](https://www.instagram.com/abiabinavu) · [Email](mailto:abinavuabinavu@gmail.com)
