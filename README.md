@@ -9,8 +9,8 @@ Currently seeking internships in embedded systems, firmware, electronics, and Io
 ## Featured projects
 
 - [ESP32 Multilevel Confirmation Accident Detection System (BikeGuard)](https://github.com/abiabinavu/esp32-multilevel-accident-detection) — A multi-node ESP32 safety system using ESP-NOW, helmet and pulse sensing, impact validation, GPS, GSM alerts, and a live dashboard.
-- Personal Interactive Robot — An ESP32-based robot programmed in Embedded C, integrating sensors and output peripherals for real-time interaction.
-- Smart Home Monitoring — Gas-leak and water-level sensing with threshold-based alerts for unsafe conditions.
+- [ESP32 Interactive Robot](https://github.com/abiabinavu/interactive-robot-esp32) — An ESP32 robot programmed in Embedded C, integrating sensors and output peripherals for real-time interaction.
+- [Smart Home Monitoring: Gas Leakage and Water-Level Detection](https://github.com/abiabinavu/smart-home-gas-leak-water-level-monitoring) — Microcontroller-based gas-leak and water-level monitoring with threshold-based alerts.
 - [Portfolio](https://abiabinavu.github.io/abinavu-portfolio/) — More projects, skills, and certifications.
 
 ## Skills
